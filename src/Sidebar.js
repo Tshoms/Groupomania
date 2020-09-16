@@ -12,7 +12,7 @@ function Sidebar() {
         <div className='sidebar'>
             
             <div className='sidebar__header'>
-             <Avatar/>
+             <Avatar src="https://avatars0.githubusercontent.com/u/59461576?s=460&u=5073048684085c2328f316793bb0d1a67ee6cc3e&v=4"/>
              <div className='sidebar__headerRight'>
               <IconButton> 
               <DonutLargeIcon />
